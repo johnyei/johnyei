@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnyei
+- 👋 Hi, I’m @oliverwade
 - 👀 I’m interested in JavaScript, TypeScript, Node/Express, React, Angular, Vue.js and Cryptocurrency(Blockchain, DeFi, Ethereum, DApp)
 - 🌱 I’m currently learning Cryptocurrency
 - 💞️ I’m looking to collaborate on long term projects
